@@ -36,9 +36,9 @@ If even one bit mismatches → AND output = 0 → Alarm (Red LED/Buzzer) ON.
 
 🔧 Components Used
 S.No	Component	Quantity
-1.	XOR IC – 74HC86	2
-2.	NOT IC – 74HC04	2
-3.	AND IC – 74HCT08	2
+1.	XOR IC – 74HC86	6
+2.	NOT IC – 74HC04	7
+3.	AND IC – 74HCT08	5
 4.	Resistors 1kΩ	12
 5.	LEDs (Green & Red)	2
 6.	Buzzer (optional)	1
